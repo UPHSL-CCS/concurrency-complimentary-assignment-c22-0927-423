@@ -32,13 +32,3 @@ This program is an example of **concurrency** because:
 - Even though Python may not run them on separate CPU cores (that would be **parallelism**), the program still handles multiple tasks simultaneously, which is the essence of concurrency.  
 - Users can see the effect immediately: the stopwatch never freezes while waiting for the alarm.
 
----
-
-## 📝 How to Run
-
-1. Make sure you have Python installed. 🐍  
-2. Save the script as `alarm_stopwatch.py`.  
-3. Run the program:
-
-```bash
-python alarm_stopwatch.py
